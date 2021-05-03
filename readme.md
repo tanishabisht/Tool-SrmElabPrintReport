@@ -1,5 +1,6 @@
 # SRM Elab DAA : Print Report
 A python script to download reports for the DAA Lab
+NOTE : All your reports will be downloaded in the DownLoads folder
 
 ## Dependancies
 1. Selenium : Can be installed using the command "pip install Selenium"
